@@ -1,0 +1,141 @@
+li .active {
+  color: red;
+  border-bottom: 2px solid red;
+  font-weight: 900;
+}
+
+section.active {
+  border: 4px solid red;
+}
+
+#proj-1 .background {
+  background: url('../images/proj-1.png') no-repeat center center/cover;
+  /* opacity: 0.3; */
+}
+
+#proj-2 .background {
+  background: url('../images/proj-2.png') no-repeat center center/cover;
+  /* opacity: 0.3; */
+}
+
+#proj-3 .background {
+  background: url('../images/proj-3.png') no-repeat center center/cover;
+  /* opacity: 0.3; */
+}
+
+#proj-4 .background {
+  background: url('../images/proj-4.png') no-repeat center center/cover;
+  /* opacity: 0.3; */
+}
+
+#proj-5 .background {
+  background: url('../images/proj-5.png') no-repeat center center/cover;
+  /* opacity: 0.3; */
+}
+
+.top-button.active-class {
+  z-index: 100;
+}
+
+.grid2 {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  text-align: center;
+}
+
+.grid3 {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  text-align: center;
+  align-items: center;
+  justify-content: space-around;
+  gap: 2rem;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.no-wrap {
+  white-space: nowrap;
+}
+
+.my-1 {
+  margin: 1rem 0;
+}
+
+.my-2 {
+  margin: 1.5rem 0;
+}
+
+.my-3 {
+  margin: 2rem 0;
+}
+
+.my-4 {
+  margin: 3rem 0;
+}
+
+.my-5 {
+  margin: 4rem 0;
+}
+
+.m-1 {
+  margin: 1rem;
+}
+
+.m-2 {
+  margin: 1.5rem;
+}
+
+.m-3 {
+  margin: 2rem;
+}
+
+.m-4 {
+  margin: 3rem;
+}
+
+.m-5 {
+  margin: 4rem;
+}
+
+.py-1 {
+  padding: 1rem 0;
+}
+
+.py-2 {
+  padding: 1.5rem 0;
+}
+
+.py-3 {
+  padding: 2rem 0;
+}
+
+.py-4 {
+  padding: 3rem 0;
+}
+
+.py-5 {
+  padding: 4rem 0;
+}
+
+.p-1 {
+  padding: 1rem;
+}
+
+.p-2 {
+  padding: 1.5rem;
+}
+
+.p-3 {
+  padding: 2rem;
+}
+
+.p-4 {
+  padding: 3rem;
+}
+
+.p-5 {
+  padding: 4rem;
+}
