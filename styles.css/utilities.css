@@ -1,40 +1,40 @@
-li .active {
-  color: red;
-  border-bottom: 2px solid red;
-  font-weight: 900;
-}
-
-section.active {
-  border: 4px solid red;
+.title {
+  background: url('../images/profile-pic-landscape.JPG') no-repeat center
+    center/cover;
 }
 
 #proj-1 .background {
   background: url('../images/proj-1.png') no-repeat center center/cover;
-  /* opacity: 0.3; */
 }
 
 #proj-2 .background {
   background: url('../images/proj-2.png') no-repeat center center/cover;
-  /* opacity: 0.3; */
 }
 
 #proj-3 .background {
   background: url('../images/proj-3.png') no-repeat center center/cover;
-  /* opacity: 0.3; */
 }
 
 #proj-4 .background {
   background: url('../images/proj-4.png') no-repeat center center/cover;
-  /* opacity: 0.3; */
 }
 
 #proj-5 .background {
   background: url('../images/proj-5.png') no-repeat center center/cover;
-  /* opacity: 0.3; */
 }
 
-.top-button.active-class {
-  z-index: 100;
+li .active {
+  color: white;
+  /* border-bottom: 2px solid red; */
+  padding: 1rem;
+  border: 1px solid black;
+  border-radius: 900px;
+  background-color: black;
+  white-space: nowrap;
+}
+
+section.active {
+  border: 4px solid red;
 }
 
 .grid2 {
