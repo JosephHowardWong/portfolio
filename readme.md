@@ -14,6 +14,6 @@
 
 - form submission using(Netlify)
 
-[www.josephhowardwong.com](www.josephhowardwong.com)
+[https://www.josephhowardwong.com/](https://www.josephhowardwong.com/)
 
 ### Email: josephhowardwong@gmail.com
