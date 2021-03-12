@@ -2,9 +2,9 @@
 
 ## This is Joseph Wong's portfolio website.
 
-## I hope you enjoy looking around and would appreciate any feedback
+### I hope you enjoy looking around and would appreciate any feedback.  Please don't hesitate to contact me
 
-### Don't hesitate to contact me
+### Some notes:
 
 - short bio
 
@@ -15,3 +15,5 @@
 - form submission using(Netlify)
 
 [www.josephhowardwong.com](www.josephhowardwong.com)
+
+### Email: josephhowardwong@gmail.com
