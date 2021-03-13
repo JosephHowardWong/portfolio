@@ -60,6 +60,7 @@ section.active {
   white-space: nowrap;
 }
 
+/* margin and padding */
 .my-1 {
   margin: 1rem 0;
 }
