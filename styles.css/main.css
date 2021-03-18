@@ -531,7 +531,7 @@ li:hover {
   }
 
   section {
-    height: 100vh;
+    height: 120vh;
   }
 
   .contact-container {
@@ -546,7 +546,8 @@ li:hover {
     font-size: 1rem;
   }
 
-  .contact h2 {
+  label {
+    width: 90%;
     font-size: 0.9rem;
   }
 }
