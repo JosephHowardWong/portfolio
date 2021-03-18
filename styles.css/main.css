@@ -502,7 +502,15 @@ li:hover {
   }
 
   .container {
-    margin-top: 80px;
+    margin-top: 70px;
+  }
+
+  .title {
+    text-align: right;
+  }
+
+  .profile {
+    height: 90vh;
   }
 
   article {
@@ -523,11 +531,11 @@ li:hover {
   }
 
   section {
-    height: 90vh;
+    height: 100vh;
   }
 
   .contact-container {
-    height: 95vh;
+    height: 100vh;
   }
 
   .email-container {
@@ -536,5 +544,9 @@ li:hover {
 
   .email-container h2 {
     font-size: 1rem;
+  }
+
+  .contact h2 {
+    font-size: 0.9rem;
   }
 }
