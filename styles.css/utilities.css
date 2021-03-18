@@ -41,6 +41,8 @@ section.active {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
   text-align: center;
+  align-items: center;
+  justify-content: space-around;
 }
 
 .grid3 {

@@ -405,7 +405,7 @@ li:hover {
 
   section {
     min-height: 70vh;
-    width: 90%;
+    width: 95%;
     padding: 1rem;
   }
 
@@ -423,7 +423,7 @@ li:hover {
   .contact-container {
     padding: 1rem;
     margin: 2rem;
-    width: 90%;
+    width: 95%;
     height: 700px;
   }
 
@@ -452,7 +452,7 @@ li:hover {
     align-items: center;
     justify-content: space-around;
     height: 70vh;
-    width: 90%;
+    width: 95%;
     margin: 2rem;
     padding: 1rem;
   }
@@ -474,7 +474,7 @@ li:hover {
 
   article {
     height: 60vh;
-    width: 90%;
+    width: 95%;
     padding: 1rem;
   }
 
@@ -486,4 +486,32 @@ li:hover {
   footer {
     flex-direction: column;
   }
+}
+
+@media (max-width: 500px) {
+  .container {
+    margin-top: 27vh;
+  }
+
+  .section-info h1 {
+    font-size: 1.5rem;
+  }
+
+  .section-info h3 {
+    font-size: 1.1rem;
+  }
+
+  .section-info ul {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  section {
+    height: 90vh;
+  }
+
+  .email-container h2 {
+    font-size: 1rem;
+  }
+
 }
