@@ -298,6 +298,10 @@ button:hover {
   justify-content: space-around;
 }
 
+.contact-heading {
+  margin-bottom: 1rem;
+}
+
 form {
   max-height: 50%;
   width: 100%;
@@ -510,7 +514,7 @@ li:hover {
   }
 
   .section-info h3 {
-    font-size: 0.8rem;
+    font-size: 0.9rem;
   }
 
   .section-info ul {
