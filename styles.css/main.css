@@ -535,7 +535,7 @@ li:hover {
   }
 
   .contact-container {
-    height: 100vh;
+    height: 120vh;
   }
 
   .email-container {
@@ -548,6 +548,9 @@ li:hover {
 
   label {
     width: 90%;
-    font-size: 0.9rem;
+  }
+
+  label h2 {
+    font-size: 0.8rem;
   }
 }
