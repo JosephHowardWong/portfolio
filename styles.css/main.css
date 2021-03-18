@@ -489,8 +489,13 @@ li:hover {
 }
 
 @media (max-width: 500px) {
+
+  /* .container {
+    margin-top: 22vh;
+  } */
+
   .container {
-    margin-top: 23vh;
+    margin-top: 230px;
   }
 
   .section-info h1 {
@@ -508,6 +513,14 @@ li:hover {
 
   section {
     height: 90vh;
+  }
+
+  .contact-container {
+    height: 95vh;
+  }
+
+  .email-container {
+    margin-top: 50px;
   }
 
   .email-container h2 {
