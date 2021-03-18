@@ -535,7 +535,8 @@ li:hover {
   }
 
   .contact-container {
-    height: 2000px;
+    /* height: 2000px; */
+    min-height: 90vh;
   }
 
   .email-container {
