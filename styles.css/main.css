@@ -489,21 +489,28 @@ li:hover {
 }
 
 @media (max-width: 500px) {
-
   /* .container {
     margin-top: 22vh;
   } */
 
+  .nav-list {
+    display: none;
+  }
+
   .container {
-    margin-top: 230px;
+    margin-top: 80px;
+  }
+
+  article {
+    height: 90vh;
   }
 
   .section-info h1 {
-    font-size: 1.5rem;
+    font-size: 1.3rem;
   }
 
   .section-info h3 {
-    font-size: 1.1rem;
+    font-size: 0.8rem;
   }
 
   .section-info ul {
@@ -526,5 +533,4 @@ li:hover {
   .email-container h2 {
     font-size: 1rem;
   }
-
 }
